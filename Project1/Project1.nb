@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     42612,       1019]
-NotebookOptionsPosition[     40718,        953]
-NotebookOutlinePosition[     41094,        969]
-CellTagsIndexPosition[     41051,        966]
+NotebookDataLength[     46438,       1132]
+NotebookOptionsPosition[     43828,       1039]
+NotebookOutlinePosition[     44204,       1055]
+CellTagsIndexPosition[     44161,       1052]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -71,7 +71,6 @@ following problems ",
         2.0939083561985328`},
        ViewVertical->{-0.08749679290678311, 0.046998931137650864`, 
         1.2198663864713968`}], {195., -189.}, ImageScaled[{0.5, 0.5}], {360., 360.},
-      
       ContentSelectable->True], InsetBox[
       Graphics3DBox[
        GraphicsComplex3DBox[
@@ -95,7 +94,6 @@ following problems ",
         1.6178507069661439`},
        ViewVertical->{0.05073200199151514, -0.15594053945727954`, 
         0.9864627778723867}], {585., -189.}, ImageScaled[{0.5, 0.5}], {360., 360.},
-      
       ContentSelectable->True], InsetBox[
       Graphics3DBox[
        GraphicsComplex3DBox[
@@ -113,7 +111,6 @@ following problems ",
         2.437305853152621, -1.8480388837804722`, -1.4471670471038933`},
        ViewVertical->{1.271177147360601, -0.28497497621233203`, 
         0.3891644401541232}], {975., -189.}, ImageScaled[{0.5, 0.5}], {360., 360.},
-      
       ContentSelectable->True], InsetBox[
       Graphics3DBox[
        GraphicsComplex3DBox[
@@ -224,7 +221,6 @@ following problems ",
         0.5711570522204187, -3.2203409860110974`, -0.8678614840606518},
        ViewVertical->{0.3730018630326072, -0.7776222881099696, 
         0.6052583247335479}], {1365., -189.}, ImageScaled[{0.5, 0.5}], {360., 360.},
-      
       ContentSelectable->True], InsetBox[
       Graphics3DBox[
        GraphicsComplex3DBox[
@@ -290,13 +286,12 @@ following problems ",
         2.849672771333608},
        ViewVertical->{-0.20809399232803077`, 0.4700310814626204, 
         0.8577690090088712}], {1755., -189.}, ImageScaled[{0.5, 0.5}], {360., 360.},
-      
       ContentSelectable->True]}, {}},
    ContentSelectable->True,
    PlotRangePadding->{6, 5}]], "Text",
   GeneratedCell->False,
-  CellAutoOverwrite->False,ExpressionUUID->
-  "686f0d0a-87a5-47c0-8c79-9bc940031512"],
+  CellAutoOverwrite->False,
+  ExpressionUUID -> "686f0d0a-87a5-47c0-8c79-9bc940031512"],
  "\nAt a dice game you throw five dice in the form of the ",
  ButtonBox["Platonic solids",
   BaseStyle->"Hyperlink",
@@ -307,38 +302,38 @@ following problems ",
  Cell[BoxData[
   FormBox[
    RowBox[{"1", ",", "2", ",", "\[Ellipsis]", ",", "n"}], TraditionalForm]],
-  ExpressionUUID->"de7b82ff-ce54-4b57-a1fb-7c00eddd39ba"],
+  ExpressionUUID -> "de7b82ff-ce54-4b57-a1fb-7c00eddd39ba"],
  " where ",
  Cell[BoxData[
-  FormBox["n", TraditionalForm]],ExpressionUUID->
-  "db49da0c-c0bc-41f4-abab-ad74d1c2df08"],
+  FormBox["n", TraditionalForm]],
+  ExpressionUUID -> "db49da0c-c0bc-41f4-abab-ad74d1c2df08"],
  " is the number of sides. The tetrahedron has its result number (1-4) \
 written at the vertex pointing up. All other bodies have the result number on \
 the side facing up. \n\nAt a fun-fair stall you can win a giant Teddy bear if \
 you participate in the mentioned dice game. You invest ",
  Cell[BoxData[
-  FormBox["\[Euro]2", TraditionalForm]],ExpressionUUID->
-  "0b721f4b-645f-4475-83fa-d16f8ff20b4a"],
+  FormBox["\[Euro]2", TraditionalForm]],
+  ExpressionUUID -> "0b721f4b-645f-4475-83fa-d16f8ff20b4a"],
  " and then throw the five dice. If the sum ",
  Cell[BoxData[
-  FormBox["S", TraditionalForm]],ExpressionUUID->
-  "31bbc0ef-1aa3-48a8-8f49-1abe73c9cc8d"],
+  FormBox["S", TraditionalForm]],
+  ExpressionUUID -> "31bbc0ef-1aa3-48a8-8f49-1abe73c9cc8d"],
  " satisfies ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"S", "\[LessEqual]", "10"}], TraditionalForm]],ExpressionUUID->
-  "1bb728bd-5f57-43ce-987a-8e1716fc1bff"],
+   RowBox[{"S", "\[LessEqual]", "10"}], TraditionalForm]],
+  ExpressionUUID -> "1bb728bd-5f57-43ce-987a-8e1716fc1bff"],
  " or ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"S", "\[GreaterEqual]", "45"}], TraditionalForm]],ExpressionUUID->
-  "a318d242-4db2-4ee9-b8fd-ba8f8342d141"],
+   RowBox[{"S", "\[GreaterEqual]", "45"}], TraditionalForm]],
+  ExpressionUUID -> "a318d242-4db2-4ee9-b8fd-ba8f8342d141"],
  " you will win the Teddy."
 }], "Text",
  CellChangeTimes->{{3.744962543176517*^9, 3.744962570516932*^9}, {
   3.74496260061618*^9, 3.744962621071485*^9}, {3.744962669947679*^9, 
-  3.7449626746976957`*^9}},ExpressionUUID->"f3a36f3b-3150-4c3d-afd5-\
-d3400251715c"],
+  3.7449626746976957`*^9}},
+ ExpressionUUID -> "f3a36f3b-3150-4c3d-afd5-d3400251715c"],
 
 Cell[TextData[{
  "Determine the ",
@@ -428,12 +423,21 @@ Cell["Determine the exact probability function of the sum.", "Subsection",
    3.744962870659809*^9}},
  ExpressionUUID -> "146dfc55-d804-4670-9bad-494cd1c90e23"],
 
-Cell["\<\
-Each die is fair in this case, giving an equal chance of landing on each face. 
-P(X = k) is then 1/k.\
-\>", "Text",
- CellChangeTimes->{{3.745407494509777*^9, 3.7454075565998945`*^9}}]
+Cell[TextData[{
+ "Each die is fair in this case, giving an equal chance of landing on each \
+face. \nP(X = k) is then 1/k.\n\nBy using ",
+ StyleBox["Piecewise", "Code"],
+ " we can describe each probability function as a separate list of outcomes \
+and probabilities.\n\n",
+ StyleBox["DiscreteConvolve", "Code"],
+ " was used to merge each probability function as a sum. "
+}], "Text",
+ CellChangeTimes->{{3.745407494509777*^9, 3.7454075565998945`*^9}, {
+  3.745407712772706*^9, 3.7454077456211424`*^9}, {3.745407798825946*^9, 
+  3.745407923144816*^9}}]
 }, Open  ]],
+
+Cell[CellGroupData[{
 
 Cell["\<\
 Determine the exact probability of winning the Teddy prize. Also give a \
@@ -442,23 +446,105 @@ floating point answer.\
  CellChangeTimes->{3.7448107936608505`*^9},
  ExpressionUUID -> "727e3031-c550-416e-9433-e809e6ec910e"],
 
+Cell[TextData[{
+ StyleBox["Sum", "Code"],
+ " was used to add each discrete point in the ranges.\n\n(1 - Probability of \
+failure) was then used to describe the winning probability by ",
+ ButtonBox["The Law of Total Probability.",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["http://mathworld.wolfram.com/TotalProbabilityTheorem.html"], None},
+  ButtonNote->"http://mathworld.wolfram.com/TotalProbabilityTheorem.html"]
+}], "Text",
+ CellChangeTimes->{{3.745408011952846*^9, 3.7454081391464252`*^9}, {
+  3.7454082248930006`*^9, 3.745408234341978*^9}, {3.745408265836294*^9, 
+  3.7454082906515675`*^9}, {3.7454083792288313`*^9, 3.74540838644624*^9}, {
+  3.74540885450339*^9, 3.745408907556836*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
 Cell["Determine the expected investment to win a Teddy.", "Subsection",
- CellChangeTimes->{
-  3.744810808003912*^9},ExpressionUUID->"b86fb2b9-c658-421c-bbfc-\
-4cf49c731dfc"],
+ CellChangeTimes->{3.744810808003912*^9},
+ ExpressionUUID -> "b86fb2b9-c658-421c-bbfc-4cf49c731dfc"],
+
+Cell["\<\
+The expected number of tries to achieve a success was calculated using \
+1/(probability of sucess).
+
+This was then multiplied by the cost of each try.\
+\>", "Text",
+ CellChangeTimes->{{3.7454090019011817`*^9, 3.745409019532977*^9}, {
+  3.74540939305105*^9, 3.7454095057786875`*^9}, {3.7454095547441473`*^9, 
+  3.745409684451305*^9}, {3.7454097300695996`*^9, 3.745409754974326*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
 
 Cell["\<\
 What\[CloseCurlyQuote]s the probability of winning (at least one) Teddy if \
 you play twenty times?\
 \>", "Subsection",
  CellChangeTimes->{3.7448108201908054`*^9},
- ExpressionUUID -> "3d32d4f0-3b34-4cd1-8f7e-ff421c4646ba"]
+ ExpressionUUID -> "3d32d4f0-3b34-4cd1-8f7e-ff421c4646ba"],
+
+Cell["\<\
+The probability of winning at least one in twenty tries was also calculated \
+using the Law of Total Probability, as the probability of not winning \
+anything in twenty tries can easily be calculated:
+
+Binomial Distribution with parameters n = 20, k= 0 and p = probSucess:
+FORMULA L\[CapitalADoubleDot]GG IN\
+\>", "Text",
+ CellChangeTimes->{{3.7454097632140894`*^9, 3.7454100459899426`*^9}, 
+   3.7454100957768545`*^9, {3.7454102293448367`*^9, 3.745410257767338*^9}, {
+   3.7454103036537*^9, 3.74541030770745*^9}}],
+
+Cell[BoxData["\t"], "Input",
+ CellChangeTimes->{{3.7454100978669195`*^9, 3.7454100999788055`*^9}, {
+  3.745410188506934*^9, 3.745410202036517*^9}}]
+}, Open  ]]
 }, Open  ]],
 
+Cell[CellGroupData[{
+
 Cell["Discussion", "Section",
- CellChangeTimes->{{3.744960712602158*^9, 
-  3.744960719264388*^9}},ExpressionUUID->"bff6fabb-23cf-408f-b167-\
-93f6e4b264c5"],
+ CellChangeTimes->{{3.744960712602158*^9, 3.744960719264388*^9}},
+ ExpressionUUID -> "bff6fabb-23cf-408f-b167-93f6e4b264c5"],
+
+Cell[CellGroupData[{
+
+Cell["Explanatory diagrams", "Subsection",
+ CellChangeTimes->{{3.7454103809387245`*^9, 3.745410386892558*^9}}],
+
+Cell[CellGroupData[{
+
+Cell["Plot convolved functions", "Subsubsection",
+ CellChangeTimes->{{3.745410417661065*^9, 3.7454104239692907`*^9}}],
+
+Cell["asdasd", "Text",
+ CellChangeTimes->{{3.745410429729023*^9, 3.7454104300232496`*^9}}]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Plot of sucess", "Subsubsection",
+ CellChangeTimes->{{3.7454104455879736`*^9, 3.7454104557699566`*^9}}],
+
+Cell["asdas", "Text",
+ CellChangeTimes->{{3.7454104602694764`*^9, 3.745410460465951*^9}}]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Conclusion", "Subsection",
+ CellChangeTimes->{{3.7454104883595905`*^9, 3.7454104920842705`*^9}}],
+
+Cell["asdd", "Text",
+ CellChangeTimes->{{3.7454104984549065`*^9, 3.7454104987481217`*^9}}]
+}, Open  ]]
+}, Open  ]],
 
 Cell[CellGroupData[{
 
@@ -951,7 +1037,7 @@ Cell[BoxData[
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{960, 988},
+WindowSize->{958, 988},
 WindowMargins->{{Automatic, -7}, {Automatic, 0}},
 Magnification:>1.1 Inherited,
 FrontEndVersion->"11.0 for Microsoft Windows (64-bit) (September 21, 2016)",
@@ -974,50 +1060,77 @@ Cell[746, 27, 192, 3, 59, "Subtitle"],
 Cell[941, 32, 184, 3, 38, "Subsubtitle"],
 Cell[CellGroupData[{
 Cell[1150, 39, 154, 3, 78, "Section"],
-Cell[1307, 44, 15408, 296, 257, "Text"],
-Cell[16718, 342, 326, 8, 31, "Item"],
-Cell[17047, 352, 351, 6, 32, "Text"],
-Cell[17401, 360, 296, 6, 31, "Item"],
-Cell[17700, 368, 467, 8, 73, "Text"],
-Cell[18170, 378, 291, 4, 31, "Item"],
-Cell[18464, 384, 437, 8, 53, "Text"],
-Cell[18904, 394, 356, 7, 31, "Item"],
-Cell[19263, 403, 439, 7, 53, "Text"]
+Cell[1307, 44, 15389, 291, 257, "Text"],
+Cell[16699, 337, 326, 8, 31, "Item"],
+Cell[17028, 347, 351, 6, 32, "Text"],
+Cell[17382, 355, 296, 6, 31, "Item"],
+Cell[17681, 363, 467, 8, 73, "Text"],
+Cell[18151, 373, 291, 4, 31, "Item"],
+Cell[18445, 379, 437, 8, 53, "Text"],
+Cell[18885, 389, 356, 7, 31, "Item"],
+Cell[19244, 398, 439, 7, 53, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[19739, 415, 223, 4, 78, "Section"],
+Cell[19720, 410, 223, 4, 78, "Section"],
 Cell[CellGroupData[{
-Cell[19987, 423, 328, 5, 53, "Subsection"],
-Cell[20318, 430, 193, 4, 53, "Text"]
+Cell[19968, 418, 328, 5, 53, "Subsection"],
+Cell[20299, 425, 550, 11, 136, "Text"]
 }, Open  ]],
-Cell[20526, 437, 229, 5, 53, "Subsection"],
-Cell[20758, 444, 173, 3, 43, "Subsection"],
-Cell[20934, 449, 232, 5, 43, "Subsection"]
+Cell[CellGroupData[{
+Cell[20886, 441, 229, 5, 53, "Subsection"],
+Cell[21118, 448, 700, 13, 74, "Text"]
 }, Open  ]],
-Cell[21181, 457, 155, 3, 78, "Section"],
 Cell[CellGroupData[{
-Cell[21361, 464, 151, 3, 62, "Section"],
-Cell[21515, 469, 70, 1, 33, "Input"],
-Cell[21588, 472, 4790, 121, 408, "Input"],
-Cell[CellGroupData[{
-Cell[26403, 597, 515, 13, 56, "Input"],
-Cell[26921, 612, 5862, 125, 265, "Output"]
+Cell[21855, 466, 172, 2, 53, "Subsection"],
+Cell[22030, 470, 391, 8, 73, "Text"]
 }, Open  ]],
-Cell[32798, 740, 1967, 55, 232, "Input"],
 Cell[CellGroupData[{
-Cell[34790, 799, 681, 14, 56, "Input"],
-Cell[CellGroupData[{
-Cell[35496, 817, 520, 10, 39, "Print"],
-Cell[36019, 829, 518, 10, 39, "Print"]
+Cell[22458, 483, 232, 5, 53, "Subsection"],
+Cell[22693, 490, 524, 10, 114, "Text"],
+Cell[23220, 502, 147, 2, 33, "Input"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[36586, 845, 1220, 29, 166, "Input"],
-Cell[37809, 876, 422, 9, 39, "Print"]
+Cell[23416, 510, 154, 2, 78, "Section"],
+Cell[CellGroupData[{
+Cell[23595, 516, 110, 1, 53, "Subsection"],
+Cell[CellGroupData[{
+Cell[23730, 521, 117, 1, 43, "Subsubsection"],
+Cell[23850, 524, 90, 1, 32, "Text"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[38268, 890, 1638, 40, 166, "Input"],
-Cell[39909, 932, 769, 16, 58, "Print"]
+Cell[23977, 530, 109, 1, 43, "Subsubsection"],
+Cell[24089, 533, 89, 1, 32, "Text"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[24227, 540, 102, 1, 53, "Subsection"],
+Cell[24332, 543, 90, 1, 32, "Text"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[24471, 550, 151, 3, 78, "Section"],
+Cell[24625, 555, 70, 1, 33, "Input"],
+Cell[24698, 558, 4790, 121, 408, "Input"],
+Cell[CellGroupData[{
+Cell[29513, 683, 515, 13, 56, "Input"],
+Cell[30031, 698, 5862, 125, 265, "Output"]
+}, Open  ]],
+Cell[35908, 826, 1967, 55, 232, "Input"],
+Cell[CellGroupData[{
+Cell[37900, 885, 681, 14, 56, "Input"],
+Cell[CellGroupData[{
+Cell[38606, 903, 520, 10, 39, "Print"],
+Cell[39129, 915, 518, 10, 39, "Print"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[39696, 931, 1220, 29, 166, "Input"],
+Cell[40919, 962, 422, 9, 39, "Print"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[41378, 976, 1638, 40, 166, "Input"],
+Cell[43019, 1018, 769, 16, 58, "Print"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
